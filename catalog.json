@@ -581,6 +581,38 @@
           "scale": 1,
           "focalX": 0,
           "focalY": 0
+        },
+        {
+          "id": 37,
+          "name": "RI-Hackfleisch XXL 1000g",
+          "zone": "E",
+          "positionCode": "47",
+          "hasPhoto": true,
+          "photoFiles": [
+            "37.jpg"
+          ],
+          "rotation": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "scale": 1,
+          "focalX": 0,
+          "focalY": 0
+        },
+        {
+          "id": 38,
+          "name": "BIO SN Wintersteaks Tom. Papr. MIX",
+          "zone": "A",
+          "positionCode": "86",
+          "hasPhoto": true,
+          "photoFiles": [
+            "38.jpg"
+          ],
+          "rotation": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "scale": 1,
+          "focalX": 0,
+          "focalY": 0
         }
       ],
       "zones": [
