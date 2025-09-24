@@ -613,6 +613,22 @@
           "scale": 1,
           "focalX": 0,
           "focalY": 0
+        },
+        {
+          "id": 39,
+          "name": "RI-Cevapcici 800g HF3",
+          "zone": "F",
+          "positionCode": "38",
+          "hasPhoto": true,
+          "photoFiles": [
+            "38.jpg"
+          ],
+          "rotation": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "scale": 1,
+          "focalX": 0,
+          "focalY": 0
         }
       ],
       "zones": [
