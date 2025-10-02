@@ -629,6 +629,54 @@
           "scale": 1,
           "focalX": 0,
           "focalY": 0
+        },
+        {
+          "id": 40,
+          "name": "BIO Ri/SN Hackfleisch gem. 400g e HF3",
+          "zone": "F",
+          "positionCode": "33",
+          "hasPhoto": true,
+          "photoFiles": [
+            "40.jpg"
+          ],
+          "rotation": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "scale": 1,
+          "focalX": 0,
+          "focalY": 0
+        },
+        {
+          "id": 41,
+          "name": "Frische Nackenkoteletts, vom Schwein mit Knochen 700g",
+          "zone": "E",
+          "positionCode": "52",
+          "hasPhoto": true,
+          "photoFiles": [
+            "41.jpg"
+          ],
+          "rotation": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "scale": 1,
+          "focalX": 0,
+          "focalY": 0
+        },
+         {
+          "id": 42,
+          "name": "Frisches Schweine-Filet",
+          "zone": "F",
+          "positionCode": "37",
+          "hasPhoto": true,
+          "photoFiles": [
+            "42.jpg"
+          ],
+          "rotation": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "scale": 1,
+          "focalX": 0,
+          "focalY": 0
         }
       ],
       "zones": [
