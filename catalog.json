@@ -677,6 +677,22 @@
           "scale": 1,
           "focalX": 0,
           "focalY": 0
+        },
+         {
+          "id": 43,
+          "name": "Schweine-Hackfleisch zum Braten",
+          "zone": "E",
+          "positionCode": "79",
+          "hasPhoto": true,
+          "photoFiles": [
+            "43.jpg"
+          ],
+          "rotation": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "scale": 1,
+          "focalX": 0,
+          "focalY": 0
         }
       ],
       "zones": [
