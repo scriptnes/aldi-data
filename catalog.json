@@ -662,7 +662,7 @@
           "focalX": 0,
           "focalY": 0
         },
-         {
+        {
           "id": 42,
           "name": "Frisches Schweine-Filet",
           "zone": "F",
@@ -678,7 +678,7 @@
           "focalX": 0,
           "focalY": 0
         },
-         {
+        {
           "id": 43,
           "name": "Schweine-Hackfleisch zum Braten 800g",
           "zone": "E",
@@ -694,7 +694,7 @@
           "focalX": 0,
           "focalY": 0
         },
-         {
+        {
           "id": 44,
           "name": "Hackfleisch zum Braten gem. 1000g",
           "zone": "F",
@@ -710,7 +710,7 @@
           "focalX": 0,
           "focalY": 0
         },
-                {
+        {
           "id": 45,
           "name": "Küchenfertiges GYROS vom SCHWEIN nach GYROS-ART gewürzt 800g",
           "zone": "F",
@@ -718,6 +718,22 @@
           "hasPhoto": true,
           "photoFiles": [
             "45.jpg"
+          ],
+          "rotation": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "scale": 1,
+          "focalX": 0,
+          "focalY": 0
+        },
+        {
+          "id": 46,
+          "name": "PULLED PORK vom Schwein 550g",
+          "zone": "F",
+          "positionCode": "37",
+          "hasPhoto": true,
+          "photoFiles": [
+            "46.jpg"
           ],
           "rotation": 0,
           "offsetX": 0,
