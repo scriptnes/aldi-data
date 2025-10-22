@@ -741,6 +741,54 @@
           "scale": 1,
           "focalX": 0,
           "focalY": 0
+        },
+        {
+          "id": 47,
+          "name": "Schweine BAUCH am Stück – flüssig gewürzt, zum Garen",
+          "zone": "F",
+          "positionCode": "41",
+          "hasPhoto": true,
+          "photoFiles": [
+            "47.jpg"
+          ],
+          "rotation": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "scale": 1,
+          "focalX": 0,
+          "focalY": 0
+        },
+        {
+          "id": 48,
+          "name": "Frische MINUTENSTEAKS vom SCHWEIN 800g",
+          "zone": "F",
+          "positionCode": "36",
+          "hasPhoto": true,
+          "photoFiles": [
+            "48.jpg"
+          ],
+          "rotation": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "scale": 1,
+          "focalX": 0,
+          "focalY": 0
+        },
+        {
+          "id": 49,
+          "name": "Küchenfertiger SPIESSBRATEN vom SCHWEIN gefüllt mit gepökeltem und geräuchertem Bauchspeck, Röstzwiebeln und Senf, gewürzt",
+          "zone": "F",
+          "positionCode": "38",
+          "hasPhoto": true,
+          "photoFiles": [
+            "49.jpg"
+          ],
+          "rotation": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "scale": 1,
+          "focalX": 0,
+          "focalY": 0
         }
       ],
       "zones": [
