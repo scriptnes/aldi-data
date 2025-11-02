@@ -10,7 +10,7 @@
           "id": 1,
           "name": "SN-Nackensteaks-Mix Paprika Sort. 1",
           "zone": "A",
-          "positionCode": "99",
+          "positionCode": "731",
           "hasPhoto": true,
           "photoFiles": [
             "1.jpg"
@@ -26,7 +26,7 @@
           "id": 2,
           "name": "BIO SN-Schnitzel 250g egal",
           "zone": "A",
-          "positionCode": "87",
+          "positionCode": "722",
           "hasPhoto": true,
           "photoFiles": [
             "2.jpg"
@@ -42,7 +42,7 @@
           "id": 3,
           "name": "BIO SN-Bratwurst 240g",
           "zone": "D",
-          "positionCode": "80",
+          "positionCode": "735",
           "hasPhoto": true,
           "photoFiles": [
             "3.jpg"
@@ -58,7 +58,7 @@
           "id": 4,
           "name": "RI-Rumpsteaks vom irischen Weiderind Mix",
           "zone": "A",
-          "positionCode": "92",
+          "positionCode": "681",
           "hasPhoto": true,
           "photoFiles": [
             "4.jpg"
@@ -74,7 +74,7 @@
           "id": 5,
           "name": "BIO RI-Filetsteaks kin",
           "zone": "A",
-          "positionCode": "91",
+          "positionCode": "721",
           "hasPhoto": true,
           "photoFiles": [
             "5.jpg"
@@ -90,7 +90,7 @@
           "id": 6,
           "name": "RI-Irish Beefsteak MIX",
           "zone": "E",
-          "positionCode": "64",
+          "positionCode": "676",
           "hasPhoto": true,
           "photoFiles": [
             "6.jpg"
@@ -106,7 +106,7 @@
           "id": 7,
           "name": "RI-Rumpsteak ca. 333g HF3",
           "zone": "D",
-          "positionCode": "77",
+          "positionCode": "728",
           "hasPhoto": true,
           "photoFiles": [
             "7.jpg"
@@ -122,7 +122,7 @@
           "id": 8,
           "name": "RI Rib-Eye-Steak 333g HF3",
           "zone": "E",
-          "positionCode": "62",
+          "positionCode": "674",
           "hasPhoto": true,
           "photoFiles": [
             "8.jpg"
@@ -138,7 +138,7 @@
           "id": 9,
           "name": "RI-Hüftsteak QS ca. 250g HF3",
           "zone": "E",
-          "positionCode": "65",
+          "positionCode": "677",
           "hasPhoto": true,
           "photoFiles": [
             "9.jpg"
@@ -154,7 +154,7 @@
           "id": 10,
           "name": "RI-Filetsteak QS ca. 250g HF3",
           "zone": "B",
-          "positionCode": "101",
+          "positionCode": "732",
           "hasPhoto": true,
           "photoFiles": [
             "10.jpg"
@@ -170,7 +170,7 @@
           "id": 11,
           "name": "JB-Minutensteaks QS 320g a HF3",
           "zone": "D",
-          "positionCode": "76",
+          "positionCode": "727",
           "hasPhoto": true,
           "photoFiles": [
             "11.jpg"
@@ -186,7 +186,7 @@
           "id": 12,
           "name": "BIO SN Sommersteaks Tom. Papr. MIX",
           "zone": "A",
-          "positionCode": "86",
+          "positionCode": "723",
           "hasPhoto": true,
           "photoFiles": [
             "12.jpg"
@@ -234,7 +234,7 @@
           "id": 15,
           "name": "RI-Gulasch 500g e HF3",
           "zone": "E",
-          "positionCode": "75",
+          "positionCode": "726",
           "hasPhoto": true,
           "photoFiles": [
             "15.jpg"
@@ -250,7 +250,7 @@
           "id": 16,
           "name": "RI-Hackfleisch 500g e HF3 19%",
           "zone": "E",
-          "positionCode": "74",
+          "positionCode": "725",
           "hasPhoto": true,
           "photoFiles": [
             "16.jpg"
@@ -266,7 +266,7 @@
           "id": 17,
           "name": "RI-Suppenfleisch o.K. 500g HF3",
           "zone": "D",
-          "positionCode": "78",
+          "positionCode": "729",
           "hasPhoto": true,
           "photoFiles": [
             "17.jpg"
@@ -282,7 +282,7 @@
           "id": 18,
           "name": "RI-Hackfleisch 5% 400g e HF3",
           "zone": "F",
-          "positionCode": "34",
+          "positionCode": "642",
           "hasPhoto": true,
           "photoFiles": [
             "18.jpg"
@@ -298,7 +298,7 @@
           "id": 19,
           "name": "RI-Hackfleisch XXL 800g e QS HF3 19%",
           "zone": "E",
-          "positionCode": "59",
+          "positionCode": "671",
           "hasPhoto": true,
           "photoFiles": [
             "19.jpg"
@@ -314,7 +314,7 @@
           "id": 20,
           "name": "SN-Schälrippe natur HF2 Atmos",
           "zone": "C",
-          "positionCode": "126",
+          "positionCode": "736",
           "hasPhoto": true,
           "photoFiles": [
             "20.jpg"
@@ -330,7 +330,7 @@
           "id": 21,
           "name": "RI/SN Hackfleisch gem. 800g e HF3",
           "zone": "B",
-          "positionCode": "122",
+          "positionCode": "733",
           "hasPhoto": true,
           "photoFiles": [
             "21.jpg"
@@ -346,7 +346,7 @@
           "id": 22,
           "name": "BIO RI-Hamburger 2 x 130g 18%",
           "zone": "E",
-          "positionCode": "61",
+          "positionCode": "673",
           "hasPhoto": true,
           "photoFiles": [
             "22.jpg"
@@ -362,7 +362,7 @@
           "id": 23,
           "name": "RI-Hamburger 400g HF3 18%",
           "zone": "E",
-          "positionCode": "69",
+          "positionCode": "680",
           "hasPhoto": true,
           "photoFiles": [
             "23.jpg"
@@ -394,7 +394,7 @@
           "id": 25,
           "name": "SN-Nackensteaks 500g e",
           "zone": "E",
-          "positionCode": "60",
+          "positionCode": "672",
           "hasPhoto": true,
           "photoFiles": [
             "25.jpg"
@@ -410,7 +410,7 @@
           "id": 26,
           "name": "SN-St. Louis Cut natur ca. 1250g",
           "zone": "E",
-          "positionCode": "71",
+          "positionCode": "675",
           "hasPhoto": true,
           "photoFiles": [
             "26.jpg"
@@ -490,7 +490,7 @@
           "id": 31,
           "name": "RI-Cevapcici 400g HF3",
           "zone": "A",
-          "positionCode": "81",
+          "positionCode": "724",
           "hasPhoto": true,
           "photoFiles": [
             "31.jpg"
@@ -506,7 +506,7 @@
           "id": 32,
           "name": "RI-Irish-Angus-Burger 260g skin 19%",
           "zone": "E",
-          "positionCode": "67",
+          "positionCode": "678",
           "hasPhoto": true,
           "photoFiles": [
             "32.jpg"
@@ -538,7 +538,7 @@
           "id": 34,
           "name": "Schwein Schinken Gulasch 800g",
           "zone": "E",
-          "positionCode": "68",
+          "positionCode": "679",
           "hasPhoto": true,
           "photoFiles": [
             "34.jpg"
@@ -554,7 +554,7 @@
           "id": 35,
           "name": "RI-Rouladen 500g HF3",
           "zone": "E",
-          "positionCode": "44",
+          "positionCode": "668",
           "hasPhoto": true,
           "photoFiles": [
             "35.jpg"
@@ -570,7 +570,7 @@
           "id": 36,
           "name": "RI-Beinscheiben 700g HF3",
           "zone": "E",
-          "positionCode": "47",
+          "positionCode": "669",
           "hasPhoto": true,
           "photoFiles": [
             "36.jpg"
@@ -602,7 +602,7 @@
           "id": 38,
           "name": "BIO SN Wintersteaks Tom. Papr. MIX",
           "zone": "A",
-          "positionCode": "86",
+          "positionCode": "723",
           "hasPhoto": true,
           "photoFiles": [
             "38.jpg"
@@ -634,7 +634,7 @@
           "id": 40,
           "name": "BIO Ri/SN Hackfleisch gem. 400g e HF3",
           "zone": "F",
-          "positionCode": "33",
+          "positionCode": "632",
           "hasPhoto": true,
           "photoFiles": [
             "40.jpg"
@@ -650,7 +650,7 @@
           "id": 41,
           "name": "Frische Nackenkoteletts, vom Schwein mit Knochen 700g",
           "zone": "E",
-          "positionCode": "52",
+          "positionCode": "670",
           "hasPhoto": true,
           "photoFiles": [
             "41.jpg"
@@ -682,7 +682,7 @@
           "id": 43,
           "name": "Schweine-Hackfleisch zum Braten 800g",
           "zone": "E",
-          "positionCode": "79",
+          "positionCode": "730",
           "hasPhoto": true,
           "photoFiles": [
             "43.jpg"
