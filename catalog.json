@@ -789,6 +789,38 @@
           "scale": 1,
           "focalX": 0,
           "focalY": 0
+        },
+        {
+          "id": 50,
+          "name": "Rouladen 1000g XXL",
+          "zone": "F",
+          "positionCode": "639",
+          "hasPhoto": true,
+          "photoFiles": [
+            "50.jpg"
+          ],
+          "rotation": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "scale": 1,
+          "focalX": 0,
+          "focalY": 0
+        },
+        {
+          "id": 51,
+          "name": "Schweine-Hackfleisch 1000g XXL",
+          "zone": "F",
+          "positionCode": "636",
+          "hasPhoto": true,
+          "photoFiles": [
+            "51.jpg"
+          ],
+          "rotation": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "scale": 1,
+          "focalX": 0,
+          "focalY": 0
         }
       ],
       "zones": [
