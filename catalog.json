@@ -282,7 +282,7 @@
           "id": 18,
           "name": "RI-Hackfleisch 5% 400g e HF3",
           "zone": "F",
-          "positionCode": "642",
+          "positionCode": "667",
           "hasPhoto": true,
           "photoFiles": [
             "18.jpg"
@@ -634,7 +634,7 @@
           "id": 40,
           "name": "BIO Ri/SN Hackfleisch gem. 400g e HF3",
           "zone": "F",
-          "positionCode": "632",
+          "positionCode": "666",
           "hasPhoto": true,
           "photoFiles": [
             "40.jpg"
@@ -814,6 +814,22 @@
           "hasPhoto": true,
           "photoFiles": [
             "51.jpg"
+          ],
+          "rotation": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "scale": 1,
+          "focalX": 0,
+          "focalY": 0
+        },
+        {
+          "id": 52,
+          "name": "Frische Rumpsteaks",
+          "zone": "F",
+          "positionCode": "641",
+          "hasPhoto": true,
+          "photoFiles": [
+            "52.jpg"
           ],
           "rotation": 0,
           "offsetX": 0,
