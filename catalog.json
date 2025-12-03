@@ -26,7 +26,7 @@
           "id": 2,
           "name": "BIO SN-Schnitzel 250g egal",
           "zone": "A",
-          "positionCode": "722",
+          "positionCode": "705",
           "hasPhoto": true,
           "photoFiles": [
             "2.jpg"
@@ -36,13 +36,14 @@
           "offsetY": 0,
           "scale": 1,
           "focalX": 0,
-          "focalY": 0
+          "focalY": 0,
+          "comments": "old 722"
         },
         {
           "id": 3,
           "name": "BIO SN-Bratwurst 240g",
           "zone": "D",
-          "positionCode": "735",
+          "positionCode": "707",
           "hasPhoto": true,
           "photoFiles": [
             "3.jpg"
@@ -52,7 +53,8 @@
           "offsetY": 0,
           "scale": 1,
           "focalX": 0,
-          "focalY": 0
+          "focalY": 0,
+          "comments": "old 735"
         },
         {
           "id": 4,
@@ -74,7 +76,7 @@
           "id": 5,
           "name": "BIO RI-Filetsteaks kin",
           "zone": "A",
-          "positionCode": "721",
+          "positionCode": "673",
           "hasPhoto": true,
           "photoFiles": [
             "5.jpg"
@@ -84,7 +86,8 @@
           "offsetY": 0,
           "scale": 1,
           "focalX": 0,
-          "focalY": 0
+          "focalY": 0,
+          "comments": "old 721"
         },
         {
           "id": 6,
@@ -120,7 +123,7 @@
         },
         {
           "id": 8,
-          "name": "RI Rib-Eye-Steak 333g HF3",
+          "name": "RI Rib-Eye-Steak 333g HF3 FRISCHES ENTRECOTE VOM RIND",
           "zone": "E",
           "positionCode": "674",
           "hasPhoto": true,
@@ -602,7 +605,7 @@
           "id": 38,
           "name": "BIO SN Wintersteaks Tom. Papr. MIX",
           "zone": "A",
-          "positionCode": "723",
+          "positionCode": "706",
           "hasPhoto": true,
           "photoFiles": [
             "38.jpg"
@@ -612,7 +615,8 @@
           "offsetY": 0,
           "scale": 1,
           "focalX": 0,
-          "focalY": 0
+          "focalY": 0,
+          "comments": "old 723"
         },
         {
           "id": 39,
@@ -830,6 +834,54 @@
           "hasPhoto": true,
           "photoFiles": [
             "52.jpg"
+          ],
+          "rotation": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "scale": 1,
+          "focalX": 0,
+          "focalY": 0
+        },
+        {
+          "id": 53,
+          "name": "GOURMET Finest Cuisine – RINDERFILET AM STÜCK aus Deutschland",
+          "zone": "F",
+          "positionCode": "640",
+          "hasPhoto": true,
+          "photoFiles": [
+            "53.jpg"
+          ],
+          "rotation": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "scale": 1,
+          "focalX": 0,
+          "focalY": 0
+        },
+        {
+          "id": 54,
+          "name": "Frische MINUTENSTEAKS vom SCHWEIN – Einwaage 800g",
+          "zone": "F",
+          "positionCode": "638",
+          "hasPhoto": true,
+          "photoFiles": [
+            "54.jpg"
+          ],
+          "rotation": 0,
+          "offsetX": 0,
+          "offsetY": 0,
+          "scale": 1,
+          "focalX": 0,
+          "focalY": 0
+        },
+        {
+          "id": 55,
+          "name": "Küchenfertiger KRUSTENBRATEN vom SCHWEIN – würzig gewürzt, gepökelt, zum Backen",
+          "zone": "B",
+          "positionCode": "734",
+          "hasPhoto": true,
+          "photoFiles": [
+            "55.jpg"
           ],
           "rotation": 0,
           "offsetX": 0,
