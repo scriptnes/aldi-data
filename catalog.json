@@ -26,7 +26,7 @@
           "id": 2,
           "name": "BIO SN-Schnitzel 250g egal",
           "zone": "A",
-          "positionCode": "705",
+          "positionCode": "702",
           "hasPhoto": true,
           "photoFiles": [
             "2.jpg"
@@ -43,7 +43,7 @@
           "id": 3,
           "name": "BIO SN-Bratwurst 240g",
           "zone": "D",
-          "positionCode": "707",
+          "positionCode": "704",
           "hasPhoto": true,
           "photoFiles": [
             "3.jpg"
@@ -60,7 +60,7 @@
           "id": 4,
           "name": "RI-Rumpsteaks vom irischen Weiderind Mix",
           "zone": "A",
-          "positionCode": "681",
+          "positionCode": "737",
           "hasPhoto": true,
           "photoFiles": [
             "4.jpg"
@@ -349,7 +349,7 @@
           "id": 22,
           "name": "BIO RI-Hamburger 2 x 130g 18%",
           "zone": "E",
-          "positionCode": "673",
+          "positionCode": "681",
           "hasPhoto": true,
           "photoFiles": [
             "22.jpg"
@@ -365,7 +365,7 @@
           "id": 23,
           "name": "RI-Hamburger 400g HF3 18%",
           "zone": "E",
-          "positionCode": "680",
+          "positionCode": "735",
           "hasPhoto": true,
           "photoFiles": [
             "23.jpg"
@@ -493,7 +493,7 @@
           "id": 31,
           "name": "RI-Cevapcici 400g HF3",
           "zone": "A",
-          "positionCode": "724",
+          "positionCode": "701",
           "hasPhoto": true,
           "photoFiles": [
             "31.jpg"
@@ -541,7 +541,7 @@
           "id": 34,
           "name": "Schwein Schinken Gulasch 800g",
           "zone": "E",
-          "positionCode": "679",
+          "positionCode": "724",
           "hasPhoto": true,
           "photoFiles": [
             "34.jpg"
@@ -589,7 +589,7 @@
           "id": 37,
           "name": "RI-Hackfleisch XXL 1000g",
           "zone": "E",
-          "positionCode": "47",
+          "positionCode": "639",
           "hasPhoto": true,
           "photoFiles": [
             "37.jpg"
@@ -605,7 +605,7 @@
           "id": 38,
           "name": "BIO SN Wintersteaks Tom. Papr. MIX",
           "zone": "A",
-          "positionCode": "706",
+          "positionCode": "703",
           "hasPhoto": true,
           "photoFiles": [
             "38.jpg"
@@ -782,7 +782,7 @@
           "id": 49,
           "name": "Küchenfertiger SPIESSBRATEN vom SCHWEIN gefüllt mit gepökeltem und geräuchertem Bauchspeck, Röstzwiebeln und Senf, gewürzt",
           "zone": "F",
-          "positionCode": "38",
+          "positionCode": "635",
           "hasPhoto": true,
           "photoFiles": [
             "49.jpg"
